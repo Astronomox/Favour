@@ -1,4 +1,4 @@
-# 💌 Sailor Song — Valentine's for Favour
+# 💌 Sailor Song — Valentine's for Adeola
 
 A cinematic, interactive Valentine's Day love letter themed around **"Sailor Song" by Gigi Perez**.
 
@@ -41,5 +41,4 @@ npx http-server . -p 8765
 
 ---
 
-Made with love. For Favour. ⚓💕
-"# Favour" 
+Made with love. For Adeola. ⚓💕
